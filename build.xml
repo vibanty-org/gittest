@@ -16,7 +16,7 @@
             <pathelement location="../ant-salesforce.jar" />        	
         </classpath>
     </taskdef> -->
-	<target name="deployCodeRunLocalTests">
+	<target name="deployRunAllTests">
     	<sf:deploy username="${sf.username}" 
 			password="${sf.password}"
 			serverurl="${sf.serverurl}"
