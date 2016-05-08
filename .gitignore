@@ -6,3 +6,5 @@ config/
 *.DS_Store
 deploy/
 lib/
+build.xml
+build.properties
