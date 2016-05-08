@@ -9,7 +9,6 @@
 			maxPoll="${sf.maxPoll}" 
 			logType="Debugonly"
 			deployRoot="src" 
-			testLevel="RunAllTestsInOrg" 
 			rollbackOnError="true" />
 	</target>
   
